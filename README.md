@@ -1,5 +1,5 @@
-# JPMorgan Chase SWE Virtual Experience – Task 1  
-**Interface with a Stock Price Data Feed**
+# INTERFACE WITH STOCK PRICE DATA FEED 
+**JP Morgan Chase Virtual Experience – Task 1**
 
 ---
 
